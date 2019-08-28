@@ -7,7 +7,6 @@ In this project builds a deep neural network that functions end-to-end automatic
 This is an ongoing project, we are adding language model to the pipeline.
 
 ![ASR Pipeline](/images/VUI_flow.png)
-Format: ![Alt Text](url)
 
 ## Project Instructions
 
