@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: https://github.com/bboycoi/End-to-End-Deep-Neural-Network-ASR/images/pipeline.png "ASR Pipeline"
+[image1]: https://github.com/bboycoi/End-to-End-Deep-Neural-Network-ASR/images/VUI flow.png "ASR Pipeline"
 
 ## Project Overview
 
