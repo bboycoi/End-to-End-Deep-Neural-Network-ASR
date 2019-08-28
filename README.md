@@ -10,6 +10,7 @@ This is an ongoing project, we are adding language model to the pipeline.
 
 ## Project Instructions
 
+The Notebook `vui.ibnpy` is the Main procedure, it is self-explained and is a good place to start.
 
 ### Local  Setup
 
