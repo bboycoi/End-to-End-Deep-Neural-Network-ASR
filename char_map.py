@@ -3,6 +3,7 @@ Defines two dictionaries for converting
 between text and integer sequences.
 """
 
+
 char_map_str = """
 ' 0
 <SPACE> 1

@@ -2,6 +2,7 @@
 Defines a functions for training a NN.
 """
 
+
 from data_generator import AudioGenerator
 import _pickle as pickle
 

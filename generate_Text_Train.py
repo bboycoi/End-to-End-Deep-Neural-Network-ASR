@@ -1,6 +1,7 @@
 import os
  
 
+    
 '''
 	generate text file to data/train
 '''

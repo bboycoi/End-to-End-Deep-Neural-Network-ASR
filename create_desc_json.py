@@ -8,6 +8,7 @@ data_directory/group/speaker/[file_id1.wav, file_id2.wav, ...,
 Where speaker.trans.txt has in each line, file_id transcription
 """
 
+
 from __future__ import absolute_import, division, print_function
 
 import argparse
