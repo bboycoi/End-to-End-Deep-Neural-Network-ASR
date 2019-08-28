@@ -1,6 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./images/VUI flow.png "select aind-vui kernel"
 
 ## Overview
 
@@ -8,7 +5,7 @@ A deep neural network that functions as an end-to-end automatic speech recogniti
 
 This is an ongoing project, we are adding a character based Language Model to the pipeline. 
 
-![ASR Pipeline][image1]
+![Alt text](./images/VUI flow.png?raw=true "Title")
 
 ##  Instructions
 
