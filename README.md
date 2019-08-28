@@ -62,10 +62,10 @@ python create_desc_json.py $data_folder$ valid_corpus.json
 
 #### (1) Add a Language Model to the Decoder
 
-The performance of the decoding step can be greatly enhanced by incorporating a language model.  Build your own language model from scratch, or leverage a repository or toolkit that you find online to improve your predictions.
+The performance of the decoding step can be greatly enhanced by incorporating a language model.  
 
 
 #### (3) Try out Different Audio Features
 
-In this project, you had the choice to use _either_ spectrogram or MFCC features.  Take the time to test the performance of _both_ of these features.  For a special challenge, train a network that uses raw audio waveforms!
+Train a network that uses raw audio waveforms!
 
