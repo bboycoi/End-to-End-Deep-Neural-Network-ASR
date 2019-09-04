@@ -65,7 +65,7 @@ python create_desc_json.py $data_folder$ valid_corpus.json
 The performance of the decoding step can be greatly enhanced by incorporating a language model.  
 
 
-#### (3) Try out Different Audio Features
+#### (2) Try out Different Audio Features
 
 Train a network that uses raw audio waveforms!
 
