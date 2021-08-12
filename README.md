@@ -38,7 +38,9 @@ pip install -r requirements.txt
 	```
 
 4. Obtain the `libav` package.
-	- __Linux__: `sudo apt-get install libav-tools`
+	- __Linux__: `sudo apt-get install libav-tools` or `sudo apt install ffmpeg  #requirement to run avahi
+								wget http://launchpadlibrarian.net/348889634/libav-tools_3.4.1-1_all.deb
+								sudo dpkg -i libav-tools_3.4.1-1_all.deb`
 
 5. Obtain the appropriate dataset, and convert all flac files to wav format. This works with data directories that are organized like LibriSpeech:
 data_directory/group/speaker/[file_id1.wav, file_id2.wav, ..., speaker.trans.txt]
